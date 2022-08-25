@@ -416,7 +416,7 @@ header .header_search {
 /* Footer start */
 footer {
   margin-top: 6em;
-  background-color: rgb(255, 0, 221);
+  background-color: rgb(0, 4, 122);
   color: var(--info-text);
   padding: 30px 0;
 }
